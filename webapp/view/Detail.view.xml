@@ -1,0 +1,13 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+	controllerName="com.samples.gb.masterdetail.samplemasterdetailgb.controller.Detail" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Detail Page">
+		<content>
+			<VBox>
+				<Button text="Route to Master" press="onRouteToMaster"/>
+				<Button text="Route to Home" press="onRouteToHome"/>
+				<Button text="Route to Not Found" press="onRouteToNotFound"/>
+				<Button text="Route to Error" press="onRouteToError"/>
+			</VBox>
+		</content>
+	</Page>
+</mvc:View>

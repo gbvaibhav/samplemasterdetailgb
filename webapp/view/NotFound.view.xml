@@ -1,0 +1,9 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+	controllerName="com.samples.gb.masterdetail.samplemasterdetailgb.controller.App" xmlns:html="http://www.w3.org/1999/xhtml">
+	<MessagePage showHeader="false" text="Page Not Found" enableFormattedText="true" description="Oh Snap!! Double check your URL."
+		icon="sap-icon://message-warning">
+		<buttons>
+			<Button text="Reload page"/>
+		</buttons>
+	</MessagePage>
+</mvc:View>

@@ -1,0 +1,10 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+	controllerName="com.samples.gb.masterdetail.samplemasterdetailgb.controller.App" xmlns:html="http://www.w3.org/1999/xhtml">
+	<MessagePage showHeader="false" text="Error" enableFormattedText="true"
+		description="You have been directed to this page because there is an error in loading a functionality. Please note the steps follwed by you and contact Admin."
+		icon="sap-icon://message-warning">
+		<buttons>
+			<Button text="Reload page"/>
+		</buttons>
+	</MessagePage>
+</mvc:View>

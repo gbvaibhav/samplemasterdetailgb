@@ -1,0 +1,8 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+	controllerName="com.samples.gb.masterdetail.samplemasterdetailgb.controller.Master" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Master Page">
+		<content>
+			<Button text="Route to Detail" press="onRouteToDetail"/>
+		</content>
+	</Page>
+</mvc:View>
