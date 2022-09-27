@@ -1,0 +1,1 @@
+Sample file for master detail template used in ui5 applications
